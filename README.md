@@ -20,6 +20,7 @@ User Management: User-friendly interface for librarians to manage user accounts,
 Search and Browse: Robust search functionality enabling users to quickly find books based on various criteria such as title, author, genre, or ISBN.
 
 Borrowing and Returning: Streamlined process for borrowing and returning books, including automated reminders for overdue items and fine calculation.
+![Screenshot 2024-04-28 175351](https://github.com/User-Surya/Library_management/assets/158766816/c46fd151-c3a5-4a6e-b727-5896cf271259)
 
 Reporting and Analytics: Comprehensive reporting tools allowing librarians to analyze borrowing patterns, popular titles, and user demographics to optimize library operations.
 
